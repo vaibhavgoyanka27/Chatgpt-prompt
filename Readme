@@ -1,0 +1,56 @@
+{
+  "name": "Full Name",
+  "contact_information": {
+    "email": "Email Address",
+    "phone": "Phone Number",
+    "address": "Address"
+  },
+  "summary": "Professional Summary",
+  "education": [
+    {
+      "degree": "Degree",
+      "field_of_study": "Field of Study",
+      "institution": "Institution Name",
+      "graduation_year": "Graduation Year"
+    }
+  ],
+  "experience": [
+    {
+      "job_title": "Job Title",
+      "company": "Company Name",
+      "location": "Location",
+      "start_date": "Start Date",
+      "end_date": "End Date or Present",
+      "responsibilities": [
+        "Responsibility 1",
+        "Responsibility 2"
+      ]
+    }
+  ],
+  "skills": [
+    "Skill 1",
+    "Skill 2"
+  ],
+  "projects": [
+    {
+      "title": "Project Title",
+      "description": "Project Description",
+      "technologies": [
+        "Technology 1",
+        "Technology 2"
+      ]
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Certification Name",
+      "issuing_organization": "Issuing Organization",
+      "issue_date": "Issue Date"
+    }
+  ]
+}
+
+Here is the resume in plain text:
+[Insert Resume Text Here]
+
+Parse the above resume and provide the output in JSON format.
